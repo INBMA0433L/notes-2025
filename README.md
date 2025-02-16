@@ -1,6 +1,6 @@
 # Lab notes 2025
 
-This repository contains notes and exercises for subject *Database Systems and Knowledge Representation*. Note that the official announcements and other important pieces of information can be found in our Moodle course.
+This repository contains notes and exercises for the subject *Database Systems and Knowledge Representation*. Note that the official announcements and other important pieces of information can be found in our Moodle course.
 
 ## Agenda
 
@@ -34,10 +34,12 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to establish a connection using *SQL Developer*.
 1. You must be able to initialize a schema by executing a given script.
 1. You must be able to identify a table, its columns, and primary key(s) on a schema diagram.
-1. You must be able to return any column of a table.
-1. You must be able to return all the columns of a table.
-1. You must be able to return any arithmetic expression as an additional column.
-1. You must be able to provide aliases for the columns.
+1. You must be able to use *Projection*:
+
+   1. return any column of a table
+   1. return all the columns of a table
+   1. return any arithmetic expression as an additional column
+   1. provide aliases for the columns
 
 ---
 
@@ -56,7 +58,12 @@ Selection and pattern matching.
 
 The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
 
-1. You must be able to use the arithmetic and comparison operators.
-1. You must be able to check for `IS NULL` and `IS NOT NULL` conditions.
-1. You must be able to use the `BETWEEN` condition.
-1. You must be able to use the `LIKE` condition together with the `_` and `%` placeholders.
+1. You must be able to use *Selection*:
+
+   1. use the arithmetic and comparison operators
+   1. check for `IS NULL` and `IS NOT NULL` conditions
+   1. use the `BETWEEN` condition
+
+1. You must be able to use *Pattern matching*:
+   1. use the `LIKE` condition
+   1. use the `_` and `%` placeholders
