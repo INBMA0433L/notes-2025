@@ -4,7 +4,7 @@ This repository contains notes and exercises for subject *Database Systems and K
 
 ## Agenda
 
-1. Topic `A1`: Environment. Projection.
+1. [Topic `A1`: Environment. Projection.](#topic-a1)
 1. Topic `A2`: Selection and pattern matching.
 1. Topic `A3`: Sorting. Aggregation.
 1. Topic `A4`: Built-in functions.
