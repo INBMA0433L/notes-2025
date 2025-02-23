@@ -6,7 +6,7 @@ This repository contains notes and exercises for the subject *Database Systems a
 
 1. [Topic `A1`: Environment. Projection.](#topic-a1)
 1. [Topic `A2`: Selection and pattern matching.](#topic-a2)
-1. Topic `A3`: Sorting. Aggregation.
+1. [Topic `A3`: Sorting. Aggregation.](#topic-a3)
 1. Topic `A4`: Built-in functions.
 1. Topic `B1`: Joining tables and subselects #1.
 1. Topic `B2`: Joining tables and subselects #2.
@@ -67,3 +67,32 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use *Pattern matching*:
    1. use the `LIKE` condition
    1. use the `_` and `%` placeholders
+
+---
+
+## Topic `A3`
+
+Sorting. Aggregation.
+
+### Notes
+
+1. [`A301` - Sorting](A301-sorting.md)
+1. [`A301` - Sorting (with possible solutions)](A301-sorting-full.md)
+1. [`A302` - Aggregation](A302-aggregation.md)
+1. [`A302` - Aggregation (with possible solutions)](A302-aggregation-full.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use *Sorting*:
+
+   1. use the `ORDER BY` clause's syntax
+   1. use both ascending and descending orders
+   1. use multiple stages
+
+1. You must be able to use *Aggregation*:
+
+   1. use the mentioned grouping functions without `GROUP BY`
+   1. use the `GROUP BY` clause's syntax (single column)
+   1. use the `GROUP BY` clause's syntax (multiple columns)
