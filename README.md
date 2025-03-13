@@ -8,11 +8,12 @@ This repository contains notes and exercises for the subject *Database Systems a
 1. [Topic `A2`: Selection and pattern matching.](#topic-a2)
 1. [Topic `A3`: Sorting. Aggregation.](#topic-a3)
 1. [Topic `A4`: Built-in functions.](#topic-a4)
-1. [Topic `B1`: Joining tables and subselects #1.](#topic-b1)
-1. Topic `B2`: Joining tables and subselects #2.
-1. Topic `B3`: Joining tables and subselects #3.
-1. Topic `C1`: DML statements #1.
-1. Topic `C2`: DML statements #2.
+1. [Topic `B1`: Joining tables #1.](#topic-b1)
+1. Topic `B2`: Joining tables #2.
+1. Topic `C1`: Subselects #1.
+1. Topic `C2`: Subselects #2.
+1. Topic `D1`: DML statements #1.
+1. Topic `D2`: DML statements #2.
 1. Topic `X`: Warmup session.
 
 ## Topic `A1`
@@ -111,7 +112,14 @@ Built-in functions.
 
 The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
 
-1. TODO
+1. You must be able to understand the official documentation of a function.
+1. You must be able to use the following functions and features without documentation:
+
+   1. the `dual` table
+   1. **handling `NULL` values**: `NVL()` and `NVL2()`
+   1. **handling strings**: `LOWER()`, `UPPER()`, `CONCAT()` (or the `||` operator), `SUBSTR()`, `LENGTH()`, `INSTR()`
+   1. **math functions**: `ROUND()`, `ABS()`
+   1. **handling dates**: `SYSDATE`, `EXTRACT()`, `TRUNC()` (year, month, and day)
 
 ---
 
