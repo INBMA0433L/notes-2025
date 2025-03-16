@@ -119,7 +119,7 @@ The next lab will be based on the following expectations. Please ensure that you
    1. **handling `NULL` values**: `NVL()` and `NVL2()`
    1. **handling strings**: `LOWER()`, `UPPER()`, `CONCAT()` (or the `||` operator), `SUBSTR()`, `LENGTH()`, `INSTR()`
    1. **math functions**: `ROUND()`, `ABS()`
-   1. **handling dates**: `SYSDATE`, `EXTRACT()`, `TRUNC()` (year, month, and day)
+   1. **handling dates**: `SYSDATE`, `EXTRACT()`, `TRUNC()`, `TO_DATE()` (year, month, and day)
 
 ---
 

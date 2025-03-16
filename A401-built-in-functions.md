@@ -700,3 +700,30 @@
    EXTRACT(DAY FROM SYSDATE)
    FROM DUAL;
    ```
+
+### Function `TO_DATE()`
+
+#### Reference
+
+1. [SQL Language Reference - `TO_DATE`](https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/TO_DATE.html)
+
+#### Examples
+
+1. example
+
+   ```sql
+   SELECT TO_DATE('26-06-2025', 'DD-MM-YYYY') AS "Days until the exam period :)"
+   FROM dual;
+   ```
+
+
+
+
+1. example
+
+   ```sql
+   SELECT TRUNC(TO_DATE('26-06-2025', 'DD-MM-YY'), 'YEAR'),
+         TRUNC(TO_DATE('26-06-2025', 'DD-MM-YY'), 'MONTH'),
+         TRUNC(TO_DATE('26-06-2025', 'DD-MM-YY'), 'DAY'),
+   FROM dual;
+   ```
