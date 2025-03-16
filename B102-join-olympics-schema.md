@@ -43,6 +43,8 @@
 
 ## Exercises
 
+### Single JOIN
+
 1. Return the **name** of each country together with its **gold**, **silver**, and **bronze** medals. Return a country only if it scored at least one medal.
 
 1. Return the **name** of each country together with its **gold**, **silver**, and **bronze** medals. Return each country even if it has not scored any medals.
@@ -62,7 +64,7 @@
 1. Return each **continent** with its **gold**, **silver**, and **bronze** medals. Display the `"unknown"` string instead of the `NULL` values. Order the rows by the gold medals in descending order. Return a continent only if it has more than `15` gold medals.
 
 1. Return each **continent** with its **gold**, **silver**, and **bronze** medals scored by those corresponding countries whose population is less than `100000`. Display the `"unknown"` string instead of the `NULL` values. Order the rows by the gold medals in descending order. Return a continent only if it has more than `15` gold medals.
-
+ 
 1. Return each **continent** with the number of their **gold medals**.
 
 1. Return each **continent** with the number of their **gold medals**. Return a continent only if it has more than `50` gold medals.
@@ -79,9 +81,13 @@
 
 1. Return the **name** of each sport discipline with the **number of corresponding events without names**. Return a discipline only if it has at least one event with the given condition.
 
-1. Return the **name** of each continent that is located on the same continent as Hungary is located.
+### Self-JOIN
+
+1. Return the **name** of each country that is located on the same continent as Hungary is located.
 
 1. Return each **capital** that starts with the same letter as Hungary's capital starts.
+
+### Multiple JOINs
 
 1. Return the **name** and the **gold medals** of each country that scored more medals than Hungary scored.
 

@@ -136,4 +136,14 @@ Joining tables and subselects #1.
 
 The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
 
-1. TODO
+1. You must be able to `JOIN` two tables using all the variants:
+
+   1. `CROSS JOIN`
+   1. `INNER JOIN`
+   1. `LEFT OUTER JOIN`
+   1. `RIGHT OUTER JOIN`
+   1. `FULL OUTER JOIN`
+   1. `NATURAL JOIN`
+
+1. You must be able to use self-JOINs.
+1. You must be able to `JOIN` more than two tables.
