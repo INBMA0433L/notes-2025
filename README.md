@@ -145,5 +145,21 @@ The next lab will be based on the following expectations. Please ensure that you
    1. `FULL OUTER JOIN`
    1. `NATURAL JOIN`
 
+---
+
+## Topic `B2`
+
+Joining tables and subselects #2.
+
+### Notes
+
+Continue with the remaining exercises from the last lab:
+
+1. [`B102` - Joining tables / The Olympics Schema](./B102-join-olympics-schema.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
 1. You must be able to use self-JOINs.
 1. You must be able to `JOIN` more than two tables.
