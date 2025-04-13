@@ -9,8 +9,8 @@ This repository contains notes and exercises for the subject *Database Systems a
 1. [Topic `A3`: Sorting. Aggregation.](#topic-a3)
 1. [Topic `A4`: Built-in functions.](#topic-a4)
 1. [Topic `B1`: Joining tables #1.](#topic-b1)
-1. Topic `B2`: Joining tables #2.
-1. Topic `C1`: Subselects #1.
+1. [Topic `B2`: Joining tables #2.](#topic-b2)
+1. [Topic `C1`: Subselects #1.](#topic-c1)
 1. Topic `C2`: Subselects #2.
 1. Topic `D1`: DML statements #1.
 1. Topic `D2`: DML statements #2.
@@ -131,6 +131,7 @@ Joining tables and subselects #1.
 
 1. [`B101` - Joining tables / The Cars Schema](./B101-join-cars-schema.md)
 1. [`B102` - Joining tables / The Olympics Schema](./B102-join-olympics-schema.md)
+1. [`B102` - Joining tables / The Olympics Schema (with possible solutions)](./B102-join-olympics-schema-full.md)
 
 ### Highlights
 
@@ -163,3 +164,44 @@ The next lab will be based on the following expectations. Please ensure that you
 
 1. You must be able to use self-JOINs.
 1. You must be able to `JOIN` more than two tables.
+
+---
+
+## Topic `C1`
+
+Subselects #1.
+
+### Notes
+
+1. [`C101` - Subselects, single (0D) result](./C101-subselects-0d.md)
+1. [`C102` - Subselects, vector (1D) result](./C102-subselects-1d.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use subselects that return a single value.
+1. You must be able to use subselects that return a vector.
+1. You must be able to use the `IN` and `NOT IN` conditions.
+
+---
+
+## Topic `C2`
+
+Subselects #2.
+
+### Notes
+
+1. [`C201` - Subselects, matrix (2D) result](./C201-subselects-2d.md)
+1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS`](./C202-subselects-any-all-exists.md)
+1. [`C203` - Set Operators](./C203-set-operators.md)
+1. [`C204` - `ROWNUM` Pseudocolumn](./C204-rownum.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use subselects that return a matrix.
+1. You must be able to use the `ANY`, `ALL`, and `EXISTS` conditions.
+1. You must be able to use the `UNION`, `INTERSECT`, `EXCEPT`, and `MINUS` conditions.
+1. You must be able to use the `ROWNUM` pseudocolumn.

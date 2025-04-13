@@ -716,6 +716,7 @@
    FROM dual;
    ```
 
+<<<<<<< HEAD
 ### Function `TRUNC(date)`
 
 #### Reference
@@ -723,6 +724,10 @@
 1. [SQL Language Reference - `TRUNC(date)`](https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/TRUNC-date.html)
 
 #### Examples
+=======
+
+
+>>>>>>> e637890f15d33805f1764819d9f766c151de4b47
 
 1. example
 
