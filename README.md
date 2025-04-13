@@ -203,5 +203,5 @@ The next lab will be based on the following expectations. Please ensure that you
 
 1. You must be able to use subselects that return a matrix.
 1. You must be able to use the `ANY`, `ALL`, and `EXISTS` conditions.
-1. You must be able to use the `UNION`, `INTERSECT`, `EXCEPT`, and `MINUS` conditions.
+1. You must be able to use the `UNION`, `INTERSECT`, `EXCEPT`, and `MINUS`  conditions.
 1. You must be able to use the `ROWNUM` pseudocolumn.
