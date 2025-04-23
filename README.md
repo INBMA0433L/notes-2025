@@ -11,8 +11,8 @@ This repository contains notes and exercises for the subject *Database Systems a
 1. [Topic `B1`: Joining tables #1.](#topic-b1)
 1. [Topic `B2`: Joining tables #2.](#topic-b2)
 1. [Topic `C1`: Subselects #1.](#topic-c1)
-1. Topic `C2`: Subselects #2.
-1. Topic `D1`: DML statements #1.
+1. [Topic `C2`: Subselects #2.](#topic-c2)
+1. [Topic `D1`: DML statements #1.](#topic-d1)
 1. Topic `D2`: DML statements #2.
 1. Topic `X`: Warmup session.
 
@@ -205,3 +205,21 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use the `ANY`, `ALL`, and `EXISTS` conditions.
 1. You must be able to use the `UNION`, `INTERSECT`, `EXCEPT`, and `MINUS`  conditions.
 1. You must be able to use the `ROWNUM` pseudocolumn.
+
+---
+
+## Topic `D1`
+
+DML statements #1.
+
+### Notes
+
+1 [`D101` - `UPDATE` statement](./D101-subselects-update.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must be able to use the `ROLLBACK` and `COMMIT` statements.
+1. You must be able to use basic `UPDATE` statements.
+1. You must be able to use subselect-based `UPDATE` statements.
