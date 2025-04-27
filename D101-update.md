@@ -33,3 +33,9 @@
 1. Update those countries whose capital is missing. Set their **capital** to the longest among them.
 
 1. Update those medal table entries that have `0` gold medals. Set their **gold**, **silver**, and **bronze** values to the values of `China`.
+
+1. Update those countries whose continent is missing. Set their **continent** to the one with the least corresponding countries.
+
+1. Update those countries that have participated in disciplines whose names start with the letter `W`. Add the prefix `W` to the country names, such as `W Hungary`. Use a single space as the delimiter.
+
+1. Update those countries that have participated in one of the disciplines that Hungary is. Add the suffix `(rival)` to the country names, such as `Germany (rival)`. Use a single space as the delimiter.
