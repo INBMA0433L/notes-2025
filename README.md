@@ -215,7 +215,6 @@ DML statements #1.
 ### Notes
 
 1. [`D101` - `UPDATE` statement](./D101-update.md)
-1. [`D102` - `DELETE` statement](./D102-delete.md)
 
 ### Highlights
 
@@ -224,6 +223,21 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to use the `ROLLBACK` and `COMMIT` statements.
 1. You must be able to use basic `UPDATE` statements.
 1. You must be able to use subselect-based `UPDATE` statements.
+
+---
+
+## Topic `D2`
+
+DML statements #2.
+
+### Notes
+
+1. [`D201` - `DELETE` statement](./D201-delete.md)
+
+### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
 1. You must be able to use basic `DELETE` statements.
 1. You must be able to use subselect-based `DELETE` statements.
 1. You must be able to use manually cascaded `DELETE` statements.
