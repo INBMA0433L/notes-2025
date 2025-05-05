@@ -30,15 +30,7 @@
 
 1. Delete each event that which name is missing and it does not have any corresponding result.
 
-### Manually cascaded exercises
-
-1. Delete each event that has exactly `3` results.
-
-   1. What events must be deleted?
-
-   1. Delete the corresponding results.
-
-   1. Delete the events.
+### Manually cascaded exercise
 
 1. Delete *Hungary* (as a country) from the database with all the corresponding data!
 
@@ -51,29 +43,3 @@
    1. Delete the corresponding athletes.
 
    1. Delete the country.
-
-1. Delete each country from the database with all the corresponding data that have any medals but not participated in any events.
-
-   1. What countries must be deleted?
-
-   1. Delete the corresponding medal entries.
-
-   1. Delete the corresponding team member entries.
-
-   1. Delete the corresponding athletes.
-
-   1. Delete the countries.
-
-1. Delete each country from the database that participated in any event of any discipline whose name starts with the letter `W`.
-
-   1. What countries must be deleted?
-
-   1. Delete the corresponding results.
-
-   1. Delete the corresponding team member entries.
-
-   1. Delete the corresponding athletes.
-
-   1. Delete the corresponding medal entries.
-
-   1. Delete the countries.
