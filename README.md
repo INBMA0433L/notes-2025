@@ -13,8 +13,7 @@ This repository contains notes and exercises for the subject *Database Systems a
 1. [Topic `C1`: Subselects #1.](#topic-c1)
 1. [Topic `C2`: Subselects #2.](#topic-c2)
 1. [Topic `D1`: DML statements #1.](#topic-d1)
-1. Topic `D2`: DML statements #2.
-1. Topic `X`: Warmup session.
+1. [Topic `D2`: DML statements #2.](#topic-d2)
 
 ## Topic `A1`
 
