@@ -174,7 +174,9 @@ Subselects #1.
 ### Notes
 
 1. [`C101` - Subselects, single (0D) result](./C101-subselects-0d.md)
+1. [`C101` - Subselects, single (0D) result (with possible solutions)](./C101-subselects-0d-full.md)
 1. [`C102` - Subselects, vector (1D) result](./C102-subselects-1d.md)
+1. [`C102` - Subselects, vector (1D) result (with possible solutions)](./C102-subselects-1d-full.md)
 
 ### Highlights
 
