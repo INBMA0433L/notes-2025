@@ -2,6 +2,10 @@
 
 This repository contains notes and exercises for the subject *Database Systems and Knowledge Representation*. Note that the official announcements and other important pieces of information can be found in our Moodle course.
 
+> [!IMPORTANT]
+>
+> As *possible solutions*, we provide only one possible syntax that may fit the requirements at least in a special situation. Thus, some exercises can be solved in different ways, with miscellaneous differences in the outputs. This is why the *possible solutions* do not replace the lab instructors' explanations, and all rights reserved about future complaints.
+
 ## Agenda
 
 1. [Topic `A1`: Environment. Projection.](#topic-a1)
