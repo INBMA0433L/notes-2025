@@ -198,10 +198,13 @@ Subselects #2.
 ### Notes
 
 1. [`C201` - Subselects, matrix (2D) result](./C201-subselects-2d.md)
+1. [`C201` - Subselects, matrix (2D) result (with possible solutions)](./C201-subselects-2d-full.md)
 1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS`](./C202-subselects-any-all-exists.md)
-1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS` (with possible solutions)`](./C202-subselects-any-all-exists-full.md)
+1. [`C202` - Conditions `ANY`, `ALL`, and `EXISTS` (with possible solutions)](./C202-subselects-any-all-exists-full.md)
 1. [`C203` - Set Operators](./C203-set-operators.md)
+1. [`C203` - Set Operators (with possible solutions)](./C203-set-operators-full.md)
 1. [`C204` - `ROWNUM` Pseudocolumn](./C204-rownum.md)
+1. [`C204` - `ROWNUM` Pseudocolumn (with possible solutions)](./C204-rownum-full.md)
 
 ### Highlights
 
