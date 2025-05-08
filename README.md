@@ -217,6 +217,7 @@ DML statements #1.
 ### Notes
 
 1. [`D101` - `UPDATE` statement](./D101-update.md)
+1. [`D101` - `UPDATE` statement (with possible solutions)](./D101-update-full.md)
 
 ### Highlights
 
@@ -235,6 +236,7 @@ DML statements #2.
 ### Notes
 
 1. [`D201` - `DELETE` statement](./D201-delete.md)
+1. [`D201` - `DELETE` statement (with possible solutions)](./D201-delete-full.md)
 
 ### Highlights
 

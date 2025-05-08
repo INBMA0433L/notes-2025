@@ -1,6 +1,6 @@
 [↑ Back](./README.md)
 
-# `D102` - `DELETE` statement
+# `D201` - `DELETE` statement
 
 ## Schema diagram
 
@@ -22,13 +22,15 @@
 
 1. Delete the country which name is *Hungary*!
 
+   *Why cannot we delete Hungary but American Samoa?*
+
 ### Subquery-based exercises
 
 1. Delete each country that does not have any medals.
 
 1. Delete each discipline that does not have any events.
 
-1. Delete each event that which name is missing and it does not have any corresponding result.
+1. Delete each event that which name is present and it does not have any corresponding result.
 
 ### Manually cascaded exercise
 
@@ -39,7 +41,7 @@
    1. Delete the corresponding results.
 
    1. Delete the corresponding team member entries.
-
+   
    1. Delete the corresponding athletes.
 
    1. Delete the country.
